@@ -1,0 +1,13 @@
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Inicio.resources
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Login.resources
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb

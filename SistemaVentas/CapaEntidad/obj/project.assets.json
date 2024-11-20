@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\SistemaVentas\\CapaEntidad\\CapaEntidad.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\SistemaVentas\\CapaEntidad\\CapaEntidad.csproj",
       "projectName": "CapaEntidad",
-      "projectPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\SistemaVentas\\CapaEntidad\\CapaEntidad.csproj",
+      "projectPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\SistemaVentas\\CapaEntidad\\CapaEntidad.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\SistemaVentas\\CapaEntidad\\obj\\",
+      "outputPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\SistemaVentas\\CapaEntidad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",

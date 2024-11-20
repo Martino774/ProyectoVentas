@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\SistemaVentas\\CapaNegocio\\CapaNegocio.csproj": {}
+    "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\SistemaVentas\\CapaNegocio\\CapaNegocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\SistemaVentas\\CapaNegocio\\CapaNegocio.csproj": {
+    "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\SistemaVentas\\CapaNegocio\\CapaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\SistemaVentas\\CapaNegocio\\CapaNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\SistemaVentas\\CapaNegocio\\CapaNegocio.csproj",
         "projectName": "CapaNegocio",
-        "projectPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\SistemaVentas\\CapaNegocio\\CapaNegocio.csproj",
+        "projectPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\SistemaVentas\\CapaNegocio\\CapaNegocio.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\SistemaVentas\\CapaNegocio\\obj\\",
+        "outputPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\SistemaVentas\\CapaNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
