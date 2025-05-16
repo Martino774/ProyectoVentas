@@ -1,0 +1,6 @@
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\ProyectoVentas\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\ProyectoVentas\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\ProyectoVentas\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\ProyectoVentas\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\ProyectoVentas\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\Proyecto ventas\ProyectoVentas\CapaNegocio\obj\Debug\net8.0\CapaNegocio.sourcelink.json

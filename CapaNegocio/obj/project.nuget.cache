@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "7FWjceWBoaaAh52jyv51blsDPw2jOtl5k8xn9Uhq7+AJshIVT/cPAYu4ja4fYOIpWJ+GyQot0ASWOui/6eZlww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\Proyecto ventas\\ProyectoVentas\\CapaNegocio\\CapaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.5\\system.configuration.configurationmanager.9.0.5.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.5\\system.diagnostics.eventlog.9.0.5.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.5\\system.security.cryptography.protecteddata.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
