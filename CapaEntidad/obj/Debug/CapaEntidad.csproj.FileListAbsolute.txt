@@ -1,0 +1,6 @@
+C:\Users\marti\OneDrive\Escritorio\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\marti\OneDrive\Escritorio\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\marti\OneDrive\Escritorio\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\marti\OneDrive\Escritorio\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
