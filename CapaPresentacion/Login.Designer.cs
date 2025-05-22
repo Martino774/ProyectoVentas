@@ -96,9 +96,9 @@ namespace CapaPresentacion
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(284, 81);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 13);
+            this.label2.Size = new System.Drawing.Size(64, 13);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Contraseña";
+            this.label2.Text = "Contraseña:";
             // 
             // label3
             // 

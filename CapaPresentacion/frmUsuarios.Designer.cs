@@ -50,6 +50,7 @@
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.txtId = new System.Windows.Forms.TextBox();
             this.btnSeleccionar = new System.Windows.Forms.DataGridViewButtonColumn();
             this.IdUsuario = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Documento = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -60,7 +61,6 @@
             this.Rol = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Estado = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.EstadoValor = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtId = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -89,9 +89,10 @@
             this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label3.Location = new System.Drawing.Point(41, 51);
             this.label3.Name = "label3";
+            this.label3.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label3.Size = new System.Drawing.Size(85, 13);
             this.label3.TabIndex = 2;
-            this.label3.Text = ":Nro Documento";
+            this.label3.Text = "Nro Documento:";
             // 
             // label4
             // 
@@ -100,9 +101,10 @@
             this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label4.Location = new System.Drawing.Point(41, 95);
             this.label4.Name = "label4";
+            this.label4.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label4.Size = new System.Drawing.Size(94, 13);
             this.label4.TabIndex = 3;
-            this.label4.Text = ":Nombre Completo";
+            this.label4.Text = "Nombre Completo:";
             // 
             // label5
             // 
@@ -111,9 +113,10 @@
             this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label5.Location = new System.Drawing.Point(43, 144);
             this.label5.Name = "label5";
+            this.label5.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label5.Size = new System.Drawing.Size(41, 13);
             this.label5.TabIndex = 4;
-            this.label5.Text = ":Correo";
+            this.label5.Text = "Correo:";
             // 
             // textDocumento
             // 
@@ -143,9 +146,10 @@
             this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label6.Location = new System.Drawing.Point(41, 197);
             this.label6.Name = "label6";
+            this.label6.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label6.Size = new System.Drawing.Size(64, 13);
             this.label6.TabIndex = 8;
-            this.label6.Text = ":Contraseña";
+            this.label6.Text = "Contraseña:";
             // 
             // textClave
             // 
@@ -161,9 +165,10 @@
             this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label7.Location = new System.Drawing.Point(43, 245);
             this.label7.Name = "label7";
+            this.label7.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label7.Size = new System.Drawing.Size(111, 13);
             this.label7.TabIndex = 10;
-            this.label7.Text = ":Confirmar Contraseña";
+            this.label7.Text = "Confirmar Contraseña:";
             // 
             // textConfrimarClave
             // 
@@ -179,9 +184,10 @@
             this.label8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label8.Location = new System.Drawing.Point(43, 337);
             this.label8.Name = "label8";
+            this.label8.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label8.Size = new System.Drawing.Size(26, 13);
             this.label8.TabIndex = 12;
-            this.label8.Text = ":Rol";
+            this.label8.Text = "Rol:";
             // 
             // comboBox1
             // 
@@ -206,9 +212,10 @@
             this.label9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label9.Location = new System.Drawing.Point(43, 377);
             this.label9.Name = "label9";
+            this.label9.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label9.Size = new System.Drawing.Size(43, 13);
             this.label9.TabIndex = 15;
-            this.label9.Text = ":Estado";
+            this.label9.Text = "Estado:";
             // 
             // btnEditar
             // 
@@ -278,6 +285,7 @@
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(299, 21);
             this.label11.Name = "label11";
+            this.label11.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label11.Size = new System.Drawing.Size(843, 34);
             this.label11.TabIndex = 21;
             this.label11.Text = ":Lista De Usuarios";
@@ -301,6 +309,14 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(843, 456);
             this.dataGridView1.TabIndex = 20;
+            // 
+            // txtId
+            // 
+            this.txtId.Location = new System.Drawing.Point(184, 32);
+            this.txtId.Name = "txtId";
+            this.txtId.Size = new System.Drawing.Size(50, 20);
+            this.txtId.TabIndex = 22;
+            this.txtId.Visible = false;
             // 
             // btnSeleccionar
             // 
@@ -359,14 +375,6 @@
             this.EstadoValor.HeaderText = "EstadoValor";
             this.EstadoValor.Name = "EstadoValor";
             this.EstadoValor.Visible = false;
-            // 
-            // txtId
-            // 
-            this.txtId.Location = new System.Drawing.Point(184, 32);
-            this.txtId.Name = "txtId";
-            this.txtId.Size = new System.Drawing.Size(50, 20);
-            this.txtId.TabIndex = 22;
-            this.txtId.Visible = false;
             // 
             // frmUsuarios
             // 
@@ -429,6 +437,7 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.TextBox txtId;
         private System.Windows.Forms.DataGridViewButtonColumn btnSeleccionar;
         private System.Windows.Forms.DataGridViewTextBoxColumn IdUsuario;
         private System.Windows.Forms.DataGridViewTextBoxColumn Documento;
@@ -439,6 +448,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Rol;
         private System.Windows.Forms.DataGridViewTextBoxColumn Estado;
         private System.Windows.Forms.DataGridViewTextBoxColumn EstadoValor;
-        private System.Windows.Forms.TextBox txtId;
     }
 }

@@ -41,3 +41,4 @@ C:\Users\marti\OneDrive\Escritorio\Martino\Personal\SistemaVentas\CapaPresentaci
 C:\Users\marti\OneDrive\Escritorio\Martino\Personal\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
 C:\Users\marti\OneDrive\Escritorio\Martino\Personal\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
 C:\Users\marti\OneDrive\Escritorio\Martino\Personal\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\marti\OneDrive\Escritorio\Martino\Personal\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
