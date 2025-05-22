@@ -27,6 +27,7 @@ namespace CapaPresentacion
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             List<Usuario> TEST = new CN_Usuario().Listar();
+            //MessageBox.Show("Cantidad de usuarios encontrados: " + TEST.Count);
 
             Usuario oUsuario = new CN_Usuario().Listar().Where(u => u.Documento == txtDocumento.Text && u.Clave == txtContra.Text).FirstOrDefault();
 
@@ -35,7 +36,7 @@ namespace CapaPresentacion
             if(oUsuario != null)
             {
                 //inicializa el formulario de inicio
-                Inicio form = new Inicio();
+                Inicio form = new Inicio(oUsuario);
                 form.Show();
 
                 //oculta el formulario de login

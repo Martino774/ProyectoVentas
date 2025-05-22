@@ -1,308 +1,216 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\",
+  "WorkspaceRootPath": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ADA160A-0686-4A57-A2C0-E5BCA0BB3389}|CapaDatos\\CapaDatos.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capadatos\\cd_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ADA160A-0686-4A57-A2C0-E5BCA0BB3389}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BEE258D-4574-46AB-BE77-AEC08A64C746}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BEE258D-4574-46AB-BE77-AEC08A64C746}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ADA160A-0686-4A57-A2C0-E5BCA0BB3389}|CapaDatos\\CapaDatos.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9ADA160A-0686-4A57-A2C0-E5BCA0BB3389}|CapaDatos\\CapaDatos.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ADA160A-0686-4A57-A2C0-E5BCA0BB3389}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ADA160A-0686-4A57-A2C0-E5BCA0BB3389}|CapaDatos\\CapaDatos.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ADA160A-0686-4A57-A2C0-E5BCA0BB3389}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\marti\\onedrive\\escritorio\\martino\\personal\\sistemaventas\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\detalle_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\detalle_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\detalle_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\detalle_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE849D-3863-4DF5-9B01-7A337F707BAC}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEE258D-4574-46AB-BE77-AEC08A64C746}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capanegocio\\cn_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEE258D-4574-46AB-BE77-AEC08A64C746}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEE258D-4574-46AB-BE77-AEC08A64C746}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEE258D-4574-46AB-BE77-AEC08A64C746}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C9430-61E7-428E-9025-5F3CD056545A}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:09:00.975Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaPresentacion\\Login.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaPresentacion\\Login.cs",
-              "RelativeToolTip": "CapaPresentacion\\Login.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwDIAAAAFAAAA",
+              "DocumentIndex": 4,
+              "Title": "frmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmUsuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:42:44.353Z",
+              "WhenOpened": "2025-05-22T07:00:10.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CN_Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaNegocio\\CN_Usuario.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\CN_Usuario.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaNegocio\\CN_Usuario.cs",
-              "RelativeToolTip": "CapaNegocio\\CN_Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:37:12.966Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Venta.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Venta.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Venta.cs",
-              "RelativeToolTip": "CapaEntidad\\Venta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Title": "frmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\frmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:36:01.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Usuario.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Usuario.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Usuario.cs",
-              "RelativeToolTip": "CapaEntidad\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:35:28.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Rol.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Rol.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Rol.cs",
-              "RelativeToolTip": "CapaEntidad\\Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:34:52.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Proveedor.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Proveedor.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Proveedor.cs",
-              "RelativeToolTip": "CapaEntidad\\Proveedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:34:17.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Producto.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Producto.cs",
-              "RelativeToolTip": "CapaEntidad\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:33:38.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Permiso.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Permiso.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Permiso.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Permiso.cs",
-              "RelativeToolTip": "CapaEntidad\\Permiso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:33:04.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Detalle_Venta.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Detalle_Venta.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Detalle_Venta.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Detalle_Venta.cs",
-              "RelativeToolTip": "CapaEntidad\\Detalle_Venta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:32:26.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Detalle_Compra.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Detalle_Compra.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Detalle_Compra.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Detalle_Compra.cs",
-              "RelativeToolTip": "CapaEntidad\\Detalle_Compra.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:31:49.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Compra.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Compra.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Compra.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Compra.cs",
-              "RelativeToolTip": "CapaEntidad\\Compra.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:31:07.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Cliente.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Cliente.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Cliente.cs",
-              "RelativeToolTip": "CapaEntidad\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:30:05.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Categoria.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Categoria.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaEntidad\\Categoria.cs",
-              "RelativeToolTip": "CapaEntidad\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:29:48.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaDatos\\Conexion.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaDatos\\Conexion.cs",
-              "RelativeToolTip": "CapaDatos\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:24:01.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CD_Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
-              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwDwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:23:02.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaPresentacion\\Program.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaPresentacion\\Program.cs",
-              "RelativeToolTip": "CapaPresentacion\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:12:46.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaPresentacion\\Login.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaPresentacion\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\Login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:12:42.014Z",
+              "WhenOpened": "2025-05-22T06:41:04.03Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
-              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\SistemaVentas\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:05:09.482Z"
+              "WhenOpened": "2025-05-22T06:36:58.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CN_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaNegocio\\CN_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Usuario.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaNegocio\\CN_Usuario.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:19:31.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CN_Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaNegocio\\CN_Permiso.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Permiso.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaNegocio\\CN_Permiso.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Permiso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:19:18.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:56:46.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CD_Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaDatos\\CD_Permiso.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Permiso.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaDatos\\CD_Permiso.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Permiso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:56:29.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDetalleCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\frmDetalleCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleCompra.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:38:08.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmDetalleVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\frmDetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleVenta.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:37:41.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\Inicio.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.Designer.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAnwD8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:32:40.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Escritorio\\Martino\\Personal\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwCYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:09:08.808Z",
+              "EditorCaption": ""
             }
           ]
         }
