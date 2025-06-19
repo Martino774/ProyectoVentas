@@ -78,7 +78,7 @@
             this.menu.Name = "menu";
             this.menu.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
             this.menu.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.menu.Size = new System.Drawing.Size(1237, 73);
+            this.menu.Size = new System.Drawing.Size(1443, 73);
             this.menu.TabIndex = 0;
             this.menu.Text = "menuStrip1";
             // 
@@ -273,7 +273,7 @@
             this.menuStrip1.BackColor = System.Drawing.Color.SteelBlue;
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1237, 56);
+            this.menuStrip1.Size = new System.Drawing.Size(1443, 56);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -294,7 +294,7 @@
             this.contenedor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.contenedor.Location = new System.Drawing.Point(0, 129);
             this.contenedor.Name = "contenedor";
-            this.contenedor.Size = new System.Drawing.Size(1237, 622);
+            this.contenedor.Size = new System.Drawing.Size(1443, 622);
             this.contenedor.TabIndex = 3;
             // 
             // label1
@@ -323,7 +323,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Azure;
-            this.ClientSize = new System.Drawing.Size(1237, 751);
+            this.ClientSize = new System.Drawing.Size(1443, 751);
             this.Controls.Add(this.lblUsuario);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.contenedor);
